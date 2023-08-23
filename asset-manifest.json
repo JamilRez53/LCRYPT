@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Online-Shopping/static/css/main.f67c8e15.css",
-    "main.js": "/Online-Shopping/static/js/main.5fc7a867.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/Online-Shopping/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/testimonial01.png": "/Online-Shopping/static/media/testimonial01.ef527bf36f2a27625c23.png",
-    "static/media/Cyber.jpg": "/Online-Shopping/static/media/Cyber.286839f776c5ec828af4.jpg",
-    "static/media/b2.avif": "/Online-Shopping/static/media/b2.283a60ad5fad7e49722a.avif",
-    "static/media/b4.avif": "/Online-Shopping/static/media/b4.f0c5162b99ac361c9aa7.avif",
-    "static/media/b3.avif": "/Online-Shopping/static/media/b3.025ca4eed160df111936.avif",
-    "static/media/Instructor.jpeg": "/Online-Shopping/static/media/Instructor.a895556519e28fd21bd6.jpeg",
-    "static/media/b1.avif": "/Online-Shopping/static/media/b1.96fb372c3e87982c824b.avif",
-    "static/media/About.png": "/Online-Shopping/static/media/About.72a72f03d21a3f838b88.png",
-    "static/media/Admin.png": "/Online-Shopping/static/media/Admin.8ade52afd197d16065f1.png",
-    "static/media/home-banner-background.png": "/Online-Shopping/static/media/home-banner-background.585600da7ff85661555e.png",
-    "static/media/teacher.webp": "/Online-Shopping/static/media/teacher.a7d05e6b6de342d932b5.webp",
-    "static/media/logo.svg": "/Online-Shopping/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Online-Shopping/index.html",
-    "main.f67c8e15.css.map": "/Online-Shopping/static/css/main.f67c8e15.css.map",
-    "main.5fc7a867.js.map": "/Online-Shopping/static/js/main.5fc7a867.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/Online-Shopping/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/LCRYPT/static/css/main.5f23658d.css",
+    "main.js": "/LCRYPT/static/js/main.70498c22.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/LCRYPT/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/testimonial01.png": "/LCRYPT/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/Cyber.jpg": "/LCRYPT/static/media/Cyber.286839f776c5ec828af4.jpg",
+    "static/media/b2.avif": "/LCRYPT/static/media/b2.283a60ad5fad7e49722a.avif",
+    "static/media/b4.avif": "/LCRYPT/static/media/b4.f0c5162b99ac361c9aa7.avif",
+    "static/media/b3.avif": "/LCRYPT/static/media/b3.025ca4eed160df111936.avif",
+    "static/media/Instructor.jpeg": "/LCRYPT/static/media/Instructor.a895556519e28fd21bd6.jpeg",
+    "static/media/b1.avif": "/LCRYPT/static/media/b1.96fb372c3e87982c824b.avif",
+    "static/media/About.png": "/LCRYPT/static/media/About.72a72f03d21a3f838b88.png",
+    "static/media/Admin.png": "/LCRYPT/static/media/Admin.8ade52afd197d16065f1.png",
+    "static/media/home-banner-background.png": "/LCRYPT/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/teacher.webp": "/LCRYPT/static/media/teacher.a7d05e6b6de342d932b5.webp",
+    "static/media/logo.svg": "/LCRYPT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LCRYPT/index.html",
+    "main.5f23658d.css.map": "/LCRYPT/static/css/main.5f23658d.css.map",
+    "main.70498c22.js.map": "/LCRYPT/static/js/main.70498c22.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/LCRYPT/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f67c8e15.css",
-    "static/js/main.5fc7a867.js"
+    "static/css/main.5f23658d.css",
+    "static/js/main.70498c22.js"
   ]
 }
