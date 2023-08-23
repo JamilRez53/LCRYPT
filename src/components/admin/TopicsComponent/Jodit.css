@@ -1,0 +1,6 @@
+.jodit-toolbar-button{
+    display: flex !important;
+    justify-content: flex-end;
+    align-items: flex-start;
+    height: "200px"
+}

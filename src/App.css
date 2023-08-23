@@ -1,7 +1,12 @@
-.App {
-  text-align: center;
+.App{
+  width: 100vw;
+    height: 100vh;
+    background-color: #ffffff;
+    /* display: flex; */
+    align-items: center;
+    flex-direction: column;
+    
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -10,6 +15,29 @@
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+  }
+}
+@media (max-width: 600px) {
+  .App{
+    width: 100vw;
+      height: 100vh;
+      background-color: #ffffff;
+      /* display: flex; */
+      align-items: center;
+      flex-direction: column;
+      
+  }
+}
+
+@media (min-width: 1200px) {
+  .App{
+    width: 100vw;
+      height: 100vh;
+      background-color: #ffffff;
+      /* display: flex; */
+      align-items: center;
+      flex-direction: column;
+      
   }
 }
 

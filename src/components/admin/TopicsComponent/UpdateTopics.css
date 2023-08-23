@@ -1,0 +1,12 @@
+.topic-container{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jodit-toolbar{
+    display: none;
+}
+.ql-container{
+    font-size: 20px;
+}
